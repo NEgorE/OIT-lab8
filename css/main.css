@@ -1,0 +1,70 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+body{
+	background: #58a8c3;
+	margin-bottom: 120px !important;
+}
+.layoutB{
+	width: 90%;
+    margin: 30px auto;
+    text-align: center;
+    color: #ffffff;
+    font-family: Century Gothic;
+    background: url(../images/Fondo.png);
+	padding: 1%;
+}
+h2{
+	font-style: oblique;
+	font-family: Ubuntu;
+}
+.items{
+	margin-top: 1em;
+}
+.panel{
+	height: auto;
+}
+.panel-heading{
+	font-weight: bold;
+}
+
+.panel-body{
+	padding: 0;
+	height: auto;
+	width: auto;
+}
+.panel-body img{
+	height: auto;
+	width: 100%;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 120px;
+	background-color: #58a8c3;
+	color: white;
+	padding-top: 1.5%;
+	font-size: 1.3em;
+}
+.linkP{
+	color: black;
+}
+.summ{
+	padding-top: 2%;
+}
+.panel-heading{
+	font-size: 1.3em;
+}
+.panel-body{
+	color: black;
+	padding: 1%;
+}
+.bold{
+	font-weight: bold;
+}
+.first{
+	width: 30%;
+}
